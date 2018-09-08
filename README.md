@@ -4,11 +4,12 @@
 
 Alice Springs rental properties are [losing out](http://www.abc.net.au/news/science/2018-02-18/how-can-renters-get-solar-panels/9409098) in the push by government to develop photovoltaic (PV) power infrastructure in Alice Springs. 
 
-In response, SolarAS has developed a webpage, [Solar Homes Alice](), and a set of SolarAS web-based tools to assist renters and landlords in navigating the difficult terrain of upgrading a rental house’s Solar power systems.
+In response, SolarAS has developed a webpage, [Alice Solar Homes](), and a set of SolarAS web-based tools to assist renters and landlords in navigating the difficult terrain of upgrading a rental house’s Solar power systems.
 
 - The [Solar for your rental]() page outlines a process for renters considering how they might convince a landlord to take the mutually beneficial step of obtaining solar for their rental property.
 - The [Solar best practices]() page provides a useful set of links and standards to ensure that installers and consumers are aware of the kinds of considerations that must be made to ensure the success of a home solar power system in the Alice Springs and in rural and remote communities.
-- The [Solar performance in Alice Springs]() page contains a set of visualizations that track the current performance of Alice Spring’s public PV infrastructure, .
+- The [Solar performance in Alice Springs]() page contains a set of visualizations that track the current performance of Alice Spring’s public PV infrastructure, bring in the data from the following links:
+    - Council page reporting solar performance [1](https://www.sunnyportal.com/Templates/PublicPage.aspx?page=ca218db4-b305-4138-8073-b9f660eeb064), [2](https://www.sunnyportal.com/Templates/PublicPage.aspx?page=cc8d784d-a31f-404b-aff0-68ab19d6e6df), [3](https://www.sunnyportal.com/Templates/PublicPage.aspx?page=d41ab8eb-6e3b-4a50-849d-bea786556fe3), [4](https://www.sunnyportal.com/Templates/PublicPage.aspx?page=6883b873-18aa-47f8-8820-022e4b336b73), [5](https://www.sunnyportal.com/Templates/PublicPage.aspx?page=52bc9793-258f-44b7-98f0-78662c4b0031) & [6](https://www.sunnyportal.com/Templates/PublicPage.aspx?page=d8eb700f-830e-44fd-9563-d6f943756834) from [Solar at ASTC](http://www.alicesprings.nt.gov.au/council/solar-energy-council) as well as [the DKA solar centre](http://dkasolarcentre.com.au/locations/alice-springs/graphs)
 - The [Solar certification]() page that agents can use to leverage the enthusiasm of prospective renters for Solar power. 
 - The [New developments]() page is a blog of upcomming innovations in the renewable energy space that may be particularly interesting to regional and remote councils 
 
