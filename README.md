@@ -38,3 +38,21 @@ lists inverter shut down as caused by high voltages in the system as one of the 
 *For properties without solar power* 
 
 
+Alice Springs getting solar - on track, businesses like... with initiatives like ... 
+
+eg
+Old power plant currently being phased out and if the current policy trajectory runs its course, will be replaced with solar
+
+
+1. The certification stickers for real estate
+2. The report to outline the way in which actors like ASTC might want to market solar to obtain maximal buy in from the community
+3. Information to renters and landlords to help them navigate the decision around solar buy in and upgrade
+    - make the case for landlords
+    - help tennants negotiate for solar on their property
+4. Information about developments in solar tech for application in regional and remote areas:
+    - fold out power
+    - cloth solar
+    - battery tech
+
+    Video: energy flows, insufficient wiring can lead to an overload of the system within or outside of the house. Your power company is responsible for managing energy flow from generation to the grid up until your meter box, but you and the installers you contract are responsible for the wiring within your own home.
+    Solar only works when the sun does, energy collected from your solar cells lasts
